@@ -2,9 +2,10 @@ ls
 mkdir
 cd
 touch
-rm
-rm -rf
+pwd
+rm -rf recursivly and forcefully
 cat
 hostname
 ipconfig
 vi
+rmdir
