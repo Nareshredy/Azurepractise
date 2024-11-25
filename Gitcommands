@@ -1,0 +1,4 @@
+git add filename
+git status
+git commit
+git pull
