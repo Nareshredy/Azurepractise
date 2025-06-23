@@ -9,3 +9,4 @@ hostname
 ipconfig
 vi
 rmdir
+grep
